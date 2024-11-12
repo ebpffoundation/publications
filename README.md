@@ -5,6 +5,8 @@ Welcome to the eBPF Foundation Publications repository. This repository hosts a 
 
 ## 2024
 
+[NCC Group eBPF Verifier Code Audit](2024/NCC_Group_NCCGroup_E015561_Report_2024-11-11_v1.0.pdf)
+
 [State of eBPF Report](2024/The_State_of_eBPF.pdf)
 
 ## 2023
