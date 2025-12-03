@@ -5,21 +5,21 @@ Welcome to the eBPF Foundation Publications repository. This repository hosts a 
 
 ## 2025
 
-[Case Study: Alibaba](2025/eBPF Alibaba Cloud Case Study.pdf)
+[Case Study: Alibaba](https://github.com/ebpffoundation/publications/blob/main/2025/eBPF%20Alibaba%20Cloud%20Case%20Study.pdf)
 
-[Case Study: Ant Group](2025/eBPF Ant Group Case Study.pdf)
+[Case Study: Ant Group](https://github.com/ebpffoundation/publications/blob/main/2025/eBPF%20Ant%20Group%20Case%20Study.pdf)
 
-[Case Study: Bytedance](2025/Case Study Bytedance Uses eBPF to Enhance Networking Performance.pdf)
+[Case Study: Bytedance](https://github.com/ebpffoundation/publications/blob/main/2025/Case%20Study%20Bytedance%20Uses%20eBPF%20to%20Enhance%20Networking%20Performance.pdf)
 
-[Case Study: Canopus Networks](2025/eBPF Canopus SuperNetFlow Case Study.pdf)
+[Case Study: Canopus Networks](https://github.com/ebpffoundation/publications/blob/main/2025/eBPF%20Canopus%20SuperNetFlow%20Case%20Study.pdf)
 
-[Case Study: Datadog](2025/eBPF Datadog Case Study.pdf)
+[Case Study: Datadog](https://github.com/ebpffoundation/publications/blob/main/2025/eBPF%20Datadog%20Case%20Study.pdf)
 
-[Case Study - Meta](2025/eBPF Meta Case Study.pdf)
+[Case Study - Meta](https://github.com/ebpffoundation/publications/blob/main/2025/eBPF%20Meta%20Case%20Study.pdf)
 
-[Case Study - Polar Signals](2025/eBPF Polar Signals Case Study.pdf)
+[Case Study - Polar Signals](https://github.com/ebpffoundation/publications/blob/main/2025/eBPF%20Polar%20Signals%20Case%20Study.pdf)
 
-[Case Study Rakuten](2025/eBPF Rakuten Case Study.pdf)
+[Case Study Rakuten](https://github.com/ebpffoundation/publications/blob/main/2025/eBPF%20Rakuten%20Case%20Study.pdf)
 
 [eBPF for the Infrastructure Platform White Paper](2025/The_State_of_eBPF25_111925.pdf)
 
