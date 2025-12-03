@@ -19,7 +19,7 @@ Welcome to the eBPF Foundation Publications repository. This repository hosts a 
 
 [Case Study - Polar Signals](2025/eBPF Polar Signals Case Study.pdf)
 
-[Case Study - Rakuten](2025/eBPF Rakuten Case Study.pdf)
+[Case Study Rakuten](2025/eBPF Rakuten Case Study.pdf)
 
 [eBPF for the Infrastructure Platform White Paper](2025/The_State_of_eBPF25_111925.pdf)
 
