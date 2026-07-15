@@ -6,7 +6,7 @@ Welcome to the eBPF Foundation Publications repository. This repository hosts a 
 
 [The eBPF Re-Platforming Thesis: An Investor’s Due Diligence Guide](2026/eBPF_RePlatforming_Thesis.pdf)
 
-[eBPF In Production: An Overview of Compelling Enterprise Outcomes Using eBPF](2026/eBPF In Production Report.pdf)
+[eBPF In Production: An Overview of Compelling Enterprise Outcomes Using eBPF](2026/eBPF%20In%20Production%20Report.pdf)
 
 ## 2025
 
