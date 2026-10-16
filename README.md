@@ -4,6 +4,11 @@ Welcome to the eBPF Foundation Publications repository. This repository hosts a 
 
 ## 2026
 
+[Case Study: Google – Tailoring CPU Scheduling and Optimizing Workload Performance](https://ebpf.foundation/wp-content/uploads/sites/9/2026/07/Google-1-1.pdf)
+
+[Case Study: Google – Real-Time Lock Contention Analysis and Low-Overhead Fleet Diagnostics](https://ebpf.foundation/wp-content/uploads/sites/9/2026/07/Google-2-2.pdf)
+
+[Case Study: Cloudflare – Powering Security, Networking, and Observability at Global Scale](https://ebpf.foundation/wp-content/uploads/sites/9/2026/07/cloudflare-ebpf-Case-Study.pdf-3.pdf)
 [The eBPF Re-Platforming Thesis: An Investor’s Due Diligence Guide](2026/eBPF_RePlatforming_Thesis.pdf)
 
 [eBPF In Production: An Overview of Compelling Enterprise Outcomes Using eBPF](2026/eBPF%20In%20Production%20Report.pdf)
