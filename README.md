@@ -3,6 +3,7 @@
 Welcome to the eBPF Foundation Publications repository. This repository hosts a collection of reports, whitepapers, guides, and research publications focused on eBPF technology and its applications.
 
 ## 2026
+Case Study: [AWS Lambda Uses eBPF to Scale Network Flow Capture from 150K to 4.7M Connections per Host](https://github.com/FedericaLinux/publications/blob/FedericaLinux-patch-1/2026/AWS-Lambda-case-study.pdf)
 
 [Case Study: Google – Tailoring CPU Scheduling and Optimizing Workload Performance](https://ebpf.foundation/wp-content/uploads/sites/9/2026/07/Google-1-1.pdf)
 
