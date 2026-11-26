@@ -4,6 +4,14 @@ Welcome to the eBPF Foundation Publications repository. This repository hosts a 
 
 ## 2026
 
+[Case Study: AWS Lambda Uses eBPF to Scale Network Flow Capture from 150K to 4.7M Connections per Host](2026/AWS-Lambda-case-study.pdf)
+
+[Case Study: Google – Tailoring CPU Scheduling and Optimizing Workload Performance](2026/How%20Google%20Uses%20eBPF%20to%20Tailor%20CPU%20Scheduling%20and%20Optimize%20Workload%20Performance.pdf)
+
+[Case Study: Google – Real-Time Lock Contention Analysis and Low-Overhead Fleet Diagnostics](2026/Google-lock-contention-analysis.pdf)
+
+[Case Study: Cloudflare – Powering Security, Networking, and Observability at Global Scale](2026/cloudflare-ebpf-power-security-networking-observability.pdf)
+
 [The eBPF Re-Platforming Thesis: An Investor’s Due Diligence Guide](2026/eBPF_RePlatforming_Thesis.pdf)
 
 [eBPF In Production: An Overview of Compelling Enterprise Outcomes Using eBPF](2026/eBPF%20In%20Production%20Report.pdf)
